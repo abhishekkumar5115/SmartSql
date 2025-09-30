@@ -16,7 +16,6 @@ A Streamlit-powered AI assistant that converts natural language queries into SQL
 - **Conversation History**: Maintains context-aware chat history
 - **DB Connection Management**: Secure URI-based PostgreSQL connections
 
-## Workflow Diagram 🔄
 
 ```mermaid
 graph TD
